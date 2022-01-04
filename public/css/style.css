@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Satisfy&display=swap');
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+.custom-img {
+    height: 200px;
+}
+
+.login {
+    width: 50%;
+}
